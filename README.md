@@ -14,3 +14,6 @@ When the customer arrives he is seated at the reserved table and their arrival i
 
 The system can display all reservations for a specific date and a specific date/time.  
 
+## Tasks
+
+- [Tasks for analsyis](docs/Tasks%20for%20analysis.md)
