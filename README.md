@@ -17,3 +17,7 @@ The system can display all reservations for a specific date and a specific date/
 ## Tasks
 
 - [Tasks for analsyis](docs/Tasks%20for%20analysis.md)
+
+- [Tasks for design](docs/Tasks%20for%20design.md)
+
+- [Tasks for implementation](docs/Tasks%20for%20implementation.md)
