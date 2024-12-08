@@ -1,6 +1,6 @@
 # Analysis tasks
 
-For the tasks below create and work in an `analysis` branch.
+For the tasks below, create and work in an `analysis` branch.
 
 All the tasks below should be presented in the file: `Analysis.md`
 
@@ -11,7 +11,7 @@ All the tasks below should be presented in the file: `Analysis.md`
 
 Diagrams can be created either by using a tool or may be hand-drawn. Images of the diagrams should be commited and pushed in the repository in the docs/img folder. Make sure that resolution and size of the images make the diagram readable in the markdown files without needing to scroll.
 
-Links to the diagrams should be placed inside the `Analysis.md` file as in the example.  
+Links to the diagrams should be placed inside the `Analysis.md` file as in the example.
 
 Use case texts should be written in markdown format within the `Analysis.md` file.
 
