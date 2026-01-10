@@ -6,7 +6,7 @@ All the tasks below should be presented in the file: `Design.md`
 
 1. For two of the most complex system operations identified in the System Sequence Diagram(s) that you created during analysis, create 
     - a sequence diagram and 
-    - a Design Class.
+    - a Design Class Diagram (only for the sequence diagram).
 2. Convert the most complex sequence diagram to a communication diagram.
 3. Create a single Design Class Diagram incorporating all information from all interaction diagrams of task 1.
 
